@@ -68,6 +68,8 @@ Multiple ESP32 nodes collect environmental and soil data.
 | Node 6 | Motors / Foggers / Power Monitoring |
 
 All nodes communicate with the **Master Node using ESP-NOW**.
+![Nodes](https://raw.githubusercontent.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/main/nodes.jpeg)
+![NPK Node](https://raw.githubusercontent.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/main/npk%20node.jpeg)
 
 ---
 
