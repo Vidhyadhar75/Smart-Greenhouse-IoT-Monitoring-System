@@ -264,6 +264,7 @@ I2C
 
 * React
 * Vite Dashboard
+![Frontend App](https://raw.githubusercontent.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/main/frontend%20app.png)
 
 ---
 
