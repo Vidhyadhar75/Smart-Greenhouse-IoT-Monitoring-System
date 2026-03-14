@@ -25,7 +25,7 @@ This architecture enables **long-range monitoring, low power communication, and 
 
 # 📡 System Architecture
 
-
+C:\Users\vidhy\Downloads\Your paragraph text - Copy.png
 
 ### Data Flow
 
