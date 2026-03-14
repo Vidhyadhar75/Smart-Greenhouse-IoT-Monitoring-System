@@ -133,16 +133,7 @@ Example tasks:
 | Control Task       | Controls motors / foggers |
 | Processing Task    | Formats data              |
 
-Example:
 
-```c
-void sensorTask(void *pvParameters) {
-    while(true) {
-        readSensors();
-        vTaskDelay(2000 / portTICK_PERIOD_MS);
-    }
-}
-```
 
 Benefits:
 
