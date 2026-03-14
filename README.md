@@ -25,7 +25,7 @@ This architecture enables **long-range monitoring, low power communication, and 
 
 # 📡 System Architecture
 
-https://github.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/blob/main/architecture%20diagram.jpg
+![Architecture Diagram](https://raw.githubusercontent.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/main/architecture%20diagram.jpg)
 ### Data Flow
 
 ```
