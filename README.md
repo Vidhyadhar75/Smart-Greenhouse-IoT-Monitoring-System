@@ -21,6 +21,9 @@ The system integrates:
 
 This architecture enables **long-range monitoring, low power communication, and intelligent greenhouse management**.
 
+![Smart Greenhouse](https://raw.githubusercontent.com/Vidhyadhar75/Smart-Greenhouse-IoT-Monitoring-System/main/Greenhouse.jpeg)
+
+
 ---
 
 # 📡 System Architecture
