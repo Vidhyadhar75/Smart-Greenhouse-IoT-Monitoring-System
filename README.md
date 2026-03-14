@@ -25,7 +25,7 @@ This architecture enables **long-range monitoring, low power communication, and 
 
 # 📡 System Architecture
 
-![Architecture](architecture.png)
+
 
 ### Data Flow
 
