@@ -1,18 +1,3 @@
-Great 👍
-Here is a **🔥 more professional GitHub `README.md`** with:
-
-* badges
-* architecture
-* features
-* sensors
-* tech stack icons
-* installation
-* project structure
-
-This will make your repo look like a **serious IoT / research project**.
-
-You can **copy this directly into `README.md`**.
-
 ---
 
 # 🌱 Smart Greenhouse IoT Monitoring System
